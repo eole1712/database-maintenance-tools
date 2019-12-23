@@ -12,6 +12,8 @@
 
 - [Index Maintenance](https://wiki.postgresql.org/wiki/Index_Maintenance)
 - [Optimised index ideas](https://dba.stackexchange.com/questions/27928/index-optimization-with-dates)
+- [Index only scans](https://medium.com/pgmustard/index-only-scans-in-postgres-a1603f551ee?)
+
 
 ## Waiting for PG12
 
