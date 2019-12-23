@@ -1,5 +1,9 @@
 # PostgreSQL
 
+## Best practices
+
+- [Don't do this](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
+
 ## Features to use
 
 - [PG Features](https://pgdash.io/blog/postgres-features.html)
