@@ -1,3 +1,3 @@
 # Links
 
-[Index Maintenance](https://wiki.postgresql.org/wiki/Index_Maintenance)
+- [Index Maintenance](https://wiki.postgresql.org/wiki/Index_Maintenance)
