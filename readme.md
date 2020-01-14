@@ -20,6 +20,9 @@
 - [Optimised index ideas](https://dba.stackexchange.com/questions/27928/index-optimization-with-dates)
 - [Index only scans](https://medium.com/pgmustard/index-only-scans-in-postgres-a1603f551ee?)
 
+### Buffers
+- [All about shared buffers](https://easyteam.fr/postgresql-tout-savoir-sur-le-shared_buffer/) (FR)
+
 ### Waiting for PG12
 
 - [PG12 partitioning](https://www.2ndquadrant.com/en/blog/postgresql-12-partitioning/)
